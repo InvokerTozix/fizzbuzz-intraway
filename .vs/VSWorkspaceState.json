@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\intraway",
+    "\\src\\main\\java\\com\\intraway\\Fizzbuzz",
+    "\\src\\main\\java\\com\\intraway\\Fizzbuzz\\models",
+    "\\src\\main\\resources"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\intraway\\Fizzbuzz\\models\\UserModel.java",
+  "PreviewInSolutionExplorer": false
+}
